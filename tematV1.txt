@@ -1,0 +1,10 @@
+Amnesium
+Tekstowa gra przygodowa tworzona przy uzyciu jezyka programowania c++
+wcielamy sie w poczynania glownego bohatera ktory cierpi na amnezje i stara sie
+pojac gdzie wogole jest i jak wydostac sie z tego labiryntu. Gra jest
+wzorowana na starych tekstowych przygodowkach stworzonych koncem lat 80. Jako inspiracje mozemy posluzyc sie tutaj gra na system 
+commodore 64 : dracula, ktora zostala wydana w 1986. Amnesium jak i jego pierwowzor nie jest rozbudowana,
+tak jak kiedys tak i teraz gra nie posiada prostej grafiki 2D/3D tylko tekst, ktory jest wypisywany w 
+przypadku gry amnesium na konsoli o wymiarach 80x40. 
+Zadaniem gracza jest oczami wyobrazni, zobaczyc otoczenie oraz podjac odpowiednie dzialania, aby doprowadzic
+naszego bohatera do konca przygody, ktora pelna jest przedmiotow do zbadania oraz zagadek do rozwiazania.

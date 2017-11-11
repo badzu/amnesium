@@ -1,0 +1,4 @@
+Projekt z laboratorium informatyki : Amnesium
+Prosta gra tekstowa-przygodowa napisana w programie c++
+Wykona³ : Bartlomiej ciolkosz
+Id : 156409

@@ -1,0 +1,16 @@
+Post morten :
+-definiowac biblioteki na poczatku aby program wogole dzialal
+-aby zobaczyc jakie kolwiek zmiany dzialania programu ktore wprowadzilismy w kodzie,
+trzeba caly kod zrodlowy skompilowac znowu
+- funckja endl poprawaia czytelnosc samego programu
+- uzywanie przycisku tab, robi wciecia w tekscie kodu zrodlowego (poprawai to zdecydowanie czytelnosc)
+- funka : using namespace std (przydatna)
+-pamietac aby konczyc kazda linie ";"
+- uzywanie funkcji case zamiast if else, poprawia zdecydowanie czytelnosc kodu zrodlowego
+- przy koncu fuckji case trzeba dawac : zamiast ;
+- dla char definiowac zmienne do calkowitych
+- break; przy kazdym case
+- dawac we wlasciwym miejsu petle, zeby program zapetlil sie w miejscu w ktorym chcemy zeby to zrobil
+- kod zrodlowy staje sie coraz dluzszy wiec warto jednak wpisywac komentarze slowne dla siebie, ale
+rowniez dla kogos kto bedzie patrzyl w kod, aby zrozumial jakie mialem intencje
+- aktualny czas spedzony nad projektem w tym miejscu 1godzina 29 minut w sumie to juz 2 godziny minut 5 na pisanie zeszlo
